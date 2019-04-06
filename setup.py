@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
+#TESTING
 import sys
 from os.path import join, dirname
 from setuptools import setup, find_packages
